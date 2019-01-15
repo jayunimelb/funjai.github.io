@@ -7,7 +7,7 @@
    <!--- Basic Page Needs
    ================================================== -->
    <meta charset="utf-8">
-	<title>Federico Bianchini</title>
+	<title>Sanjaykumar Patil</title>
 	<meta name="description" content="personal page">
 	<meta name="author" content="Federico Bianchini">
 
@@ -59,7 +59,7 @@
 
       <div class="row banner">
          <div class="banner-text">
-            <h1 class="responsive-headline"><p style="font-size:50px">Federico Bianchini</h1>
+            <h1 class="responsive-headline"><p style="font-size:50px">Sanjaykumar Patil</h1>
             <!-- <h3> Space Cadet</h3> -->
 <!--             <h3>Ciao! I am a Ph.D. student in the Astrophysics sector at  <a href="http://www.sissa.it/" target="_blank">SISSA</a> (International School for Advanced Studies)  in Trieste. <br>
                 <a class="smoothscroll" href="#about">Scroll down</a> to learn more <a class="smoothscroll" href="#about">about me</a>.</h3>
@@ -99,12 +99,7 @@
 
          <div class="nine columns main-col">
             <h2>About Me</h2>
-            <p>Ciao! I'm a postdoctoral researcher at the <a href="http://physics.unimelb.edu.au/" target="_blank">University of Melbourne</a> in the group of <a href="http://www.ph.unimelb.edu.au/~creichardt/obscos/Welcome.html" target="_blank">Christian Reichardt</a>, working at the intersection between theory, observations and data analysis. I am interested in mining the different cosmological data sets in order to sharpen our current understanding of the universe. I am incredibly lucky to be able to analyze and interpret data from the <a href="https://en.wikipedia.org/wiki/South_Pole_Telescope" target="_blank">South Pole Telescope</a> and <a href="https://en.wikipedia.org/wiki/POLARBEAR" target="_blank">POLARBEAR/Simons Array</a>. <br>
-
-              Most of my research focuses on the interplay between the Cosmic Microwave Background (<a href="http://background.uchicago.edu/~whu/beginners/introduction.html" target="_blank">CMB</a>) and the Large Scale Structure (LSS). <br>
-            I have developed and applied statistical tools to measure the cross-correlation of <a href="http://background.uchicago.edu/~whu/CMBlens/cmblens.html" target="_blank">CMB lensing </a> with the LSS tracers: these measurements can help solving the cosmological puzzle. <br><br>
-              Previously, I was a graduate student in the Astrophysics Sector at <a href="http://www.sissa.it/" target="_blank">SISSA</a> (International School for Advanced Studies) in Trieste, working under the supervision of <a href="http://people.sissa.it/~bacci/" target="_blank">Carlo Baccigalupi</a>. You can find my PhD thesis <a href="files/PhDThesis_Federico_Bianchini.pdf" target="_blank"> here.</a> <br> 
-            While I am not trying to understand how the universe (doesn't) work, you might find me listening to music, strumming the guitar or playing <a href="https://www.youtube.com/watch?v=4PIJUWQoQmA" target="_blank">freestyle frisbee</a> with my jamily (before that I also used to argue with my friends about the best  <a href="https://vimeo.com/46903496" target="_blank">osmiza</a> in Trieste).
+            <p>Hello!!
             </p>
 
             <div class="row">
