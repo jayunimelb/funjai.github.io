@@ -196,33 +196,24 @@
 
                <div class="twelve columns">
 
-                  <h3>Refereed Journal Articles</h3>
+                  <h3>First and Second author publications</h3>
 
                   <p>
                   <a href="https://arxiv.org/abs/1705.00411" target="_blank">Measuring galaxy cluster masses with CMB lensing using a Maximum Likelihood estimator: Statistical and systematic error budgets for future experiments
                   </a> <br>
-                  S. Raghunathan, <b>S. Patil</b> et al., accepted by ApJ
+                  S. Raghunathan, <b>S. Patil</b> et al., accepted by JCAP
                   </p>
                   <p>
-                  <a href="http://iopscience.iop.org/article/10.1088/1475-7516/2016/11/050/meta" target="_blank">Needlet estimation of cross-correlation between CMB lensing maps and LSS</a> <br>
-                  <b>F. Bianchini</b>, A. Renzi, D. Marinucci, <e>  JCAP 11, 50  (2016) </e>
+                  <a href="https://arxiv.org/abs/1810.10998" target="_blank">Mass Calibration of Optically Selected DES clusters using a Measurement of CMB-Cluster Lensing with SPTpol Data
+                  </a> <br>
+                  S. Raghunathan, <b>S. Patil</b> et al., submitted to ApJ
                   </p>
-                  
-
                   <p>
-                  <a href="http://iopscience.iop.org/article/10.3847/0004-637X/825/1/24/" target="_blank">Toward a tomographic analysis of the cross-correlation between Planck CMB lensing and H-ATLAS galaxies</a> <br>
-                  <b>F. Bianchini</b>, A. Lapi, M. Calabrese, P. Bielewicz, J. Gonzalez-Nuevo, C. Baccigalupi, L. Danese, G. de Zotti, N. Bourne, A. Cooray, L. Dunne, S. Eales, <e> ApJ 825, 1 (2016)  </e>
-                  </p>
-                  
-                  <p>
-                  <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.93.064026" target="_blank">Kinetic Sunyaev Zel'dovich effect in modified gravity</a> <br>
-                  <b>F. Bianchini</b> & A. Silvestri, <e> Phys. Rev. D 93, 064026 (2016) </e>
+                  <a href="https://arxiv.org/abs/1810.10998" target="_blank">
+                  </a> <br>
+                  S. Raghunathan, <b>S. Patil</b> et al., submitted to ApJ
                   </p>
 
-                  <p>
-                  <a href="http://iopscience.iop.org/0004-637X/802/1/64/" target="_blank">Cross-correlation between the CMB lensing potential measured by Planck and high-z sub-mm galaxies detected by the Herschel-ATLAS survey</a> <br>
-                  <b>F. Bianchini</b>, P. Bielewicz, A. Lapi, J. Gonzalez-Nuevo, C. Baccigalupi, G. de Zotti, L. Danese,  N. Bourne, A. Cooray, L. Dunne, S. Dye, S. Eales, R. Ivison, S. Maddox, M. Negrello, D. Scott, M. W. L. Smith, E. Valiante, ApJ 802, 64 (2015) 
-                  </p>
 
 
               </div>
@@ -236,7 +227,7 @@
                      
                      <div class="twelve columns">
 
-               <h3>Preprints</h3>
+               <h3>nth author publications</h3>
               
               <a href="https://arxiv.org/abs/1806.06516" target="_blank">Broadband spectral energy distributions of SDSS-selected quasars and of their host galaxies: intense activity at the edge of the quenching</a> <br>
               <b>F. Bianchini</b>,  Giulio Fabbian, Andrea Lapi, Joaquin Gonzalez-Nuevo, Roberto Gilli, Carlo Baccigalupi (2018), submitted to ApJ 
@@ -251,34 +242,7 @@
                      
                      <div class="twelve columns">
 
-               <h3>Proceedings</h3>
-                  
 
-                  <p>
-                  <a href="" target="_blank">Cross-correlation between cosmological and astrophysical datasets:  the Planck and Herschel case</a> <br>
-                  <b>F. Bianchini</b> and A. Lapi, SCCC21/IAU306 (2014)
-                  </p>
-                  
-                  <p>
-                  <a href="http://inspirehep.net/record/1337674" target="_blank">H-ATLAS High-z Sources: An Optimal Sample for Cross-Correlation Analysis</a> <br>
-                  J. Gonzalez-Nuevo, A. Lapi, and <b> F. Bianchini </b>, 49th Rencontres de Moriond: Cosmology, La Thuile, Italy, 22 - 29 Mar 2014, pp.121-126, (2014) 
-                  </p>
-
-               </div>
-
-               </div> <!-- item end -->
-
-                        <div class="row item">
-                        
-                        <div class="twelve columns">
-
-                  <h3>Posters</h3>
-                     
-
-                     <p>
-                     <a href="files/planck_ferrara_bianchini.pdf" target="_blank">Cross-correlating Planck CMB Lensing with high-z sub-mm H-ATLAS galaxies </a> <br>
-                     PLANCK 2014 - The microwave sky in temperature and polarization, Ferrara (Italy)
-                     </p>
                      
      
                   </div>
