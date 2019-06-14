@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+
+   <!--- Basic Page Needs
+   ================================================== -->
+   <meta charset="utf-8">
+	<title>Sanjaykumar Patil</title>
+	<meta name="description" content="personal page">
+	<meta name="author" content="Sanjay Patil">
+
+   <!-- Mobile Specific Metas
+   ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- CSS
+    ================================================== -->
+   <link rel="stylesheet" href="css/default.css">
+	<link rel="stylesheet" href="css/layout.css">
+   <link rel="stylesheet" href="css/media-queries.css">
+   <link rel="stylesheet" href="css/magnific-popup.css">
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+   <link rel="stylesheet" href="css/academicons-1.6.0/css/academicons.css" />
+
+
+   <!-- Script
+   ================================================== -->
+	<script src="js/modernizr.js"></script>
+
+   <!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="favicon.png" >
+
+</head>
+
+<body>
+
+   <!-- Header
+   ================================================== -->
+   <header id="home">
+
+      <nav id="nav-wrap">
+
+         <a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
+	      <a class="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
+
+         <ul id="nav" class="nav">
+            <li class="current"><a class="smoothscroll" href="#home">Home</a></li>
+            <li><a class="smoothscroll" href="#about">About</a></li>
+           <li><a class="smoothscroll" href="#resume">Research</a></li>
+           <li><a class="smoothscroll" href="#publications">Publications</a></li>
+            <!-- <li><a class="smoothscroll" href="#portfolio">Works</a></li> -->
+            <!-- <li><a class="smoothscroll" href="#contact">Contact</a></li> -->
+         </ul> <!-- end #nav -->
+
+      </nav> <!-- end #nav-wrap -->
+
+      <div class="row banner">
+         <div class="banner-text">
+            <h1 class="responsive-headline"><p style="font-size:50px">Sanjaykumar Patil</h1>
+            <!-- <h3> Space Cadet</h3> -->
+<!--             <h3>Ciao! I am a Ph.D. student in the Astrophysics sector at  <a href="http://www.sissa.it/" target="_blank">SISSA</a> (International School for Advanced Studies)  in Trieste. <br>
+                <a class="smoothscroll" href="#about">Scroll down</a> to learn more <a class="smoothscroll" href="#about">about me</a>.</h3>
+ -->            <hr />
+                <ul class="social">
+                    <li><a href="mailto:s.patil2@student.unimelb.edu.au"><i class="fa fa-envelope-o"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/sanjaykumar-patil-21279a8a/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                    <li><a href="skype:meetsanjaypatil"><i class="fa fa-skype"></i></a></li>
+                    <li><a href="https://www.researchgate.net/profile/Sanjaykumar_Patil3" target="_blank"><i class="ai ai-researchgate"></i></a></li>
+                     <li><a href="https://github.com/jayunimelb" target="_blank"><i class="fa fa-github"></i></a></li>
+		     <li><a href="https://scholar.google.com/citations?user=_pWV-zYAAAAJ&hl=en&citsig=AMD79orM1zZ5V_dCt3TVXTavYDnf37CVow" target="_blank"><i class="fa fa-google-scholar"></i></a></li>
+                     <p class="scrolldown">
+                    <a class="smoothscroll" href="#about"><i class="icon-down-circle"></i></a>
+                    </p>
+                </ul>
+
+         </div>
+      </div>
+
+
+   </header> <!-- Header End -->
+
+
+   <!-- About Section
+   ================================================== -->
+   <section id="about">
+
+      <div class="row">
+
+         <div class="three columns">
+
+            <img class="profile-pic"  src="images/profilepic.jpg" alt="" />
+
+         </div>
+
+         <div class="nine columns main-col">
+            <h2>Hello!!</h2>
+            <p>
+	      I am Sanjay Patil, a third year PhD student in School of Physics, at the University of Melbourne. Currently, I am working in the observational cosmology group headed by Dr. Christian Reichardt.
+	      Prior to this, I did my Integrated M.Sc. at IIT-Kharagpur. I worked under the supervision of <a href="https://en.wikipedia.org/wiki/Somnath_Bharadwaj" target="_blank">Prof. Somnath Bharadwaj</a> for my master thesis titled "f(R) to produce inflationary Cosmology". In this webpage you can find my research interests, publications, and my CV. 
+            </p>
+
+            <div class="row">
+
+               <div class="columns contact-details">
+
+                  <h2>Contact Details</h2>
+                  <p class="address">
+						   <span>Sanjaykumar Patil</span><br>
+						   <span>#312, David Caro Building<br>
+						   <span>School of Physics<br>
+              <span>University of Melbourne<br>
+                    <span>Parkville<br>
+                   <span> Melbourne, VIC 3010<br>
+                   <span> Australia <br>
+                     </span><br>
+                     <span><a href="mailto:s.patil2@unimelb.edu.au">s.patil2 at student.unimelb.edu.au</a> </span>
+					   </p>
+
+               </div>
+
+               <div class="columns download">
+                  <p>
+                     <a href="files/resume.pdf" class="button"><i class="fa fa-graduation-cap"></i>Download CV</a>
+                  </p>
+               </div>
+
+            </div> <!-- end row -->
+
+         </div> <!-- end .main-col -->
+
+      </div>
+
+   </section> <!-- About Section End-->
+
+
+   <!-- Resume Section
+   ================================================== -->
+   <section id="resume">
+
+      <!-- Education
+      ----------------------------------------------- -->
+      <div class="row education">
+
+            <h1><span>Research</span></h1>
+	    <p>
+	      Broadly speaking, I am interested in age old questions such as where did we come from, what's the fate of the Universe, what the Universe is made up of etc.,. I try to find answers to these questions by fitting theory to cosmological data sets. Currently, I am part of <a href="https://pole.uchicago.edu/" target="_blank">South Pole Telescope</a> (SPT), which as name suggets is located at South Pole and observes the pristine southern sky at mili-meter wavelengths.<br/>
+	      According to the current cosmological paradigm, 95% of the Universe is made of dark sector - ~26% of which is dark matter, responsible for additional gravitational effects found in large scale structures and ~ 69% of it is dark energy which is suspected to be the reason for accelerated expansion of the Universe. Galaxy clusters being the most massive objects in the Universe (100 trillion times more massive than Sun!!) are excllent probes of the matter and energy content in the Universe. However, cluster cosmology is currently limited by uncertainty in mass estimation. As part of my PhD, I am developing statistical and mathematical methods for robust galaxy cluster mass estimation using Cosmic Microwave Background (CMB) Lensing. 
+	      </p>
+	            <div class="three columns header-col">
+         </div>
+
+         <div class="nine columns main-col">
+
+            <div class="row item">
+
+               <div class="twelve columns">
+
+                  <h3> </h3>
+                  
+                  </p>
+
+               </div>
+
+            </div> <!-- item end -->
+
+
+         </div> <!-- main-col end -->
+
+
+
+   </section> <!-- Resume Section End-->
+
+
+      </div> <!-- End Education -->
+
+   <section id="publications">
+
+      <div class="row pubs">
+
+         <div class="three columns header-col">
+            <h1><span>Publications</span></h1>
+         </div>
+
+         <div class="nine columns main-col">
+
+            <div class="row item">
+
+               <div class="twelve columns">
+
+                  <h3>First and Second author publications</h3>
+
+                  <p>
+                  <a href="https://arxiv.org/abs/1705.00411" target="_blank">Measuring galaxy cluster masses with CMB lensing using a Maximum Likelihood estimator: Statistical and systematic error budgets for future experiments
+                  </a> <br>
+                  S. Raghunathan, <b>S. Patil</b> et al., accepted by JCAP
+                  </p>
+                  <p>
+                  <a href="https://arxiv.org/abs/1810.10998" target="_blank">Mass Calibration of Optically Selected DES clusters using a Measurement of CMB-Cluster Lensing with SPTpol Data
+                  </a> <br>
+                  S. Raghunathan, <b>S. Patil</b> et al., accepted by ApJ
+                  </p>
+                  </p>
+		  <p>
+		  <a> Suppressing the thermal SZ-induced variance in CMB-cluster lensing estimators
+		  </a><br>
+		  <b>S. Patil</b> et al, submitted to ApJ
+		  </p>
+		  <p>
+		   <a>Constraining SZ-mass scaling relation using SPT-SZ galaxy clusters</a><br>
+		   <b>S. Patil</b> et al., (in preparation)
+		  </p>
+		  <p>
+		  <a> A measurement of CMB-cluster lensing using SPTpol polarization-only maps
+		  </a><br>
+		  S. Raghunathan, <b>S. Patil</b> et al, (in collaboration review)
+		  </p>
+              </div>
+
+            </div> <!-- item end -->
+
+
+<!--             </div> <!-- item end -->
+ <!-- --> 
+                      <div class="row item">
+                     
+                     <div class="twelve columns">
+
+               <h3>nth author publications</h3>
+              <p>
+              <a href="https://arxiv.org/pdf/1812.01679.pdf" target="_blank">Cluster Cosmology Constraints from the 2500 deg2 SPT-SZ Survey: Inclusion of Weak Gravitational Lensing Data from Magellan and the Hubble Space Telescope</a><br>
+              S. Bocquet et al (2018), Accpeted by ApJ 
+              </p>
+	      <p>
+		<a A  Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg2 of SPTpol Temperature and Polarization Data</a><br>
+		 K. Wu et al (2019), 
+		</p>
+              <p>
+		<a href="https://arxiv.org/pdf/1811.06081.pdf" target="_blank">Measurement of the Splashback Feature around SZ-selected Galaxy Clusters with DES, SPT and ACT</a><br>
+	      T. Shin et al (2018), submitted to MNRAS
+	      </p>
+	      <p>
+		<a href="https://arxiv.org/pdf/1811.06081.pdf" target="_blank">Spectroscopic Confirmation of Five Galaxy Clusters at z > 1.25 in the 2500 sq. deg. SPT-SZ Survey</a><br>
+		G. Khullar et al (2018), accepted by ApJ
+		</p>
+               </div>
+
+               </div> <!-- item end -->
+
+                     <div class="row item">
+                     
+                     <div class="twelve columns">
+
+
+                     
+     
+                  </div>
+           
+
+            </div> <!-- item end -->
+
+         </div> <!-- main-col end -->
+
+      </div> <!-- End Publications -->
+
+
+
+      </div> <!-- End Work -->
+
+
+
+   </section> <!-- Resume Section End-->
+
+
+
+
+
+   <!-- Testimonials Section
+   ================================================== -->
+   <section id="testimonials">
+
+      <div class="text-container">
+
+         <div class="row">
+
+
+         </div> <!-- row ends -->
+
+       </div>  <!-- text-container ends -->
+
+   </section> <!-- Testimonials Section End-->
+
+
+   <!-- Contact Section
+   ================================================== -->
+
+
+   <!-- footer
+   ================================================== -->
+   <footer>
+
+      <div class="row">
+
+         <div class="twelve columns">
+
+            <ul class="social-links">
+                    <li><a href="mailto:s.patil2@student.unimelb.edu.au"><i class="fa fa-envelope-o"></i></a></li>
+                    <li><a href="skype:meetsanjaypatil"><i class="fa fa-skype"></i></a></li>
+                    <li><a href="https://www.researchgate.net/profile/Federico_Bianchini/info" target="_blank"><i class="ai ai-researchgate"></i></a></li>
+                     <li><a href="https://github.com/jayunimelb" target="_blank"><i class="fa fa-github"></i></a></li>
+		     <li><a href="https://scholar.google.com/citations?user=_pWV-zYAAAAJ&hl=en&citsig=AMD79orM1zZ5V_dCt3TVXTavYDnf37CVow" target="_blank"><i class="fa fa-google-scholar"></i></a></li>
+             </ul>
+
+            <ul class="copyright">
+               <li>&copy; Last update July 2018 </li>
+               <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>   
+            </ul>
+
+         </div>
+
+         <div id="go-top"><a class="smoothscroll" title="Back to Top" href="#home"><i class="icon-up-open"></i></a></div>
+
+      </div>
+      <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=bK7s&d=zLaMIPPDUI9SO-T5vjfKn4CfQmu8R6uD_sMhalX6E1I"></script>
+   </footer> <!-- Footer End-->
+
+   <!-- Java Script
+   ================================================== -->
+   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+   <script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
+   <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
+
+   <script src="js/jquery.flexslider.js"></script>
+   <script src="js/waypoints.js"></script>
+   <script src="js/jquery.fittext.js"></script>
+   <script src="js/magnific-popup.js"></script>
+   <script src="js/init.js"></script>
+
+</body>
+
+</html>
